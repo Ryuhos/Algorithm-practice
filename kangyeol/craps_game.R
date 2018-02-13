@@ -18,7 +18,7 @@ Craps <- function(){
   }
 }
 
-#a
+#ad
 Monte_per_Craps <- function(N){
   result <- 0
   for (i in 1:N){
